@@ -12,7 +12,7 @@ TONS provides quick, low-fee transactions powered by the Polygon network, making
 
 1. **Add TONS to Your Wallet**: Use [MetaMask](https://metamask.io/) and add TONS using [our contract address](https://polygonscan.com/token/0xd5755D989bE4475337e9154a3cc1cFB25e930e7e).
 2. **Buy TONS**: Available on decentralized exchanges.
-3. **Learn More**: Check out our [Whitepaper](https://github.com/TONSToken/TONS-Whitepaper/blob/main/TONS-Whitepaper.md) for detailed insights.
+3. **Learn More**: Check out our [Whitepaper](https://github.com/TONSToken/TONS-Whitepaper.git) for detailed insights.
 
 ---
 
