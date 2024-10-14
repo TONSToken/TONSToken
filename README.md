@@ -25,7 +25,7 @@ Visit our official website: [TONS Token Space](https://tonostonstokenspace.icu/)
 ### 📄 Quick Links
 
 - [Add TONS to MetaMask](https://polygonscan.com/token/0xd5755D989bE4475337e9154a3cc1cFB25e930e7e)
-- [Read the Whitepaper](https://github.com/TONSToken/TONS-Whitepaper/blob/main/TONS-Whitepaper.md)
+- [Read the Whitepaper](https://github.com/TONSToken/TONS-Whitepaper.git)
 - [Visit Our Website](https://tonostonstokenspace.icu/)
 
 ---
